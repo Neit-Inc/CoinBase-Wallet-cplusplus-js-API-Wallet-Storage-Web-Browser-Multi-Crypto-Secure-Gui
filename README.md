@@ -30,22 +30,20 @@ Furthermore, a stolen PC or a hard-drive crash could also see you waving bye-bye
 
 Used with care, a CoinBase wallet can protect you from these possibilities.
 
-![](https://github.com/cold-wallet/cold-wallet.github.io/raw/dev/resources/screen3.png)
 
-![](https://github.com/cold-wallet/cold-wallet.github.io/raw/dev/resources/screen4.png)
+![1_JfcbS7VTN1wxOSJZbwWONw](https://github.com/Neit-Inc/CoinBase-Wallet-cplusplus-js-API-Wallet-Storage-Web-Browser-Multi-Crypto-Secure-Gui/assets/145115147/dda592cc-7f1a-4433-bf61-38cd8297595f)
 
-![](https://github.com/cold-wallet/cold-wallet.github.io/raw/dev/resources/screen5.png)
 
 ### Progress
 
 | Item                                       | Status   | Notes                            | Updated    |
 | ------------------------------------------ | -------- | -------------------------------- | ---------- |
-| Wallet generation                          | Complete | Private key generated and stored | 2017-11-21 |
-| Mnemonic backup seed process               | 90%      | Wrapping up confirmation process | 2017-11-21 |
-| Speech synthesis process                   | Complete | Combined with localization       | 2017-11-25 |
-| Language localization process              | Complete | Combined with speech synthesis   | 2017-11-25 |
-| Config: Language                           | 10%      |                                  | 2017-11-26 |
-| Config: Voice speed                        | 10%      |                                  | 2017-11-26 |
+| Wallet generation                          | Complete | Private key generated and stored | 2023-11-21 |
+| Mnemonic backup seed process               | 90%      | Wrapping up confirmation process | 2023-11-21 |
+| Speech synthesis process                   | Complete | Combined with localization       | 2023-11-25 |
+| Language localization process              | Complete | Combined with speech synthesis   | 2023-11-25 |
+| Config: Language                           | 10%      |                                  | 2023-11-26 |
+| Config: Voice speed                        | 10%      |                                  | 2023-11-26 |
 | Config: Refreshable braille display model  | Pending  |                                  |            |
 | Fee estimation                             | Pending  |                                  |            |
 | Data movement process                      | Pending  |                                  |            |
