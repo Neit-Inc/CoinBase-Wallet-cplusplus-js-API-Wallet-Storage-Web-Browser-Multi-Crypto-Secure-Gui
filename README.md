@@ -2,21 +2,21 @@
    <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
 <p align="center">
 
- # CASH WALLET
+ # CoinBase WALLET
 
-Okcash Cold Storage - 
-New cashwallets
+OkCoinBase Cold Storage - 
+New CoinBasewallets
 
-One of the most popular options for keeping your Okcash safe is something called an OK cash wallet.
-Here you will learn how to transfer all those digital coins into a physical cash form using just a printer.
+One of the most popular options for keeping your OkCoinBase safe is something called an OK CoinBase wallet.
+Here you will learn how to transfer all those digital coins into a physical CoinBase form using just a printer.
 
 
 
-### What is an OK cash wallet and why do I need one?
+### What is an OK CoinBase wallet and why do I need one?
 
-An Okcash wallet consists of two ‘keys’. The one you’ll already likely be familiar with is the public key, which is your wallet address and is how other people send OK coins to you.
+An OkCoinBase wallet consists of two ‘keys’. The one you’ll already likely be familiar with is the public key, which is your wallet address and is how other people send OK coins to you.
 
-The other part of your Okcash wallet is the private key. It is this that enables you to send OK to other people.
+The other part of your OkCoinBase wallet is the private key. It is this that enables you to send OK to other people.
 
 The combination of the recipient’s public key and your private key is what makes a cryptocurrency transaction possible.
 
@@ -28,7 +28,7 @@ you are vulnerable to attacks by hackers or malware that can log your keystrokes
 
 Furthermore, a stolen PC or a hard-drive crash could also see you waving bye-bye to your digital treasure.
 
-Used with care, a cash wallet can protect you from these possibilities.
+Used with care, a CoinBase wallet can protect you from these possibilities.
 
 ![](https://github.com/cold-wallet/cold-wallet.github.io/raw/dev/resources/screen3.png)
 
@@ -54,23 +54,23 @@ Used with care, a cash wallet can protect you from these possibilities.
 
 
 
-## What is an OK cash wallet?
+## What is an OK CoinBase wallet?
 
-A cash wallet is a document that contains copies of the public and private keys that make up a wallet.
+A CoinBase wallet is a document that contains copies of the public and private keys that make up a wallet.
 Often it will have QR codes, so that you can quickly scan them and add the keys into a software wallet to make a transaction.
 
-The benefit of a cash wallet is that the keys are not stored digitally anywhere,
+The benefit of a CoinBase wallet is that the keys are not stored digitally anywhere,
 and are therefore not subject to cyber-attacks or hardware failures.
 
-The disadvantage of a cash wallet is that cash and ink can degrade,
-and cash is relatively fragile – it’s definitely worth keeping well away from fire and water for obvious reasons.
+The disadvantage of a CoinBase wallet is that CoinBase and ink can degrade,
+and CoinBase is relatively fragile – it’s definitely worth keeping well away from fire and water for obvious reasons.
 
-Furthermore, if you lose a cash wallet, you’ll never be able to access the OK coins sent to its address.
+Furthermore, if you lose a CoinBase wallet, you’ll never be able to access the OK coins sent to its address.
 
 
-## How to create an cash wallet
+## How to create an CoinBase wallet
 
-#### Here are 10 steps needed to create an OK cash wallet:
+#### Here are 10 steps needed to create an OK CoinBase wallet:
 
     1.- To generate a new 
 
@@ -78,11 +78,11 @@ Furthermore, if you lose a cash wallet, you’ll never be able to access the OK 
 
     3.- You will be presented with your public and private keys and their respective QR codes. Do not scan these.
 
-    4.- Click the ‘cash wallet’ tab.
+    4.- Click the ‘CoinBase wallet’ tab.
 
     5.- Select the number of addresses to generate.
 
-    6.- If you don’t wish to keep the Okcash artwork, click the ‘Hide art?’ button.
+    6.- If you don’t wish to keep the OkCoinBase artwork, click the ‘Hide art?’ button.
 
     7.- Click the ‘Generate’ button to create new wallets.
 
@@ -90,9 +90,9 @@ Furthermore, if you lose a cash wallet, you’ll never be able to access the OK 
 
     9.- Your browser will ask you to select the printer you wish to use. In the case of Google Chrome, you may also save the page as a PDF file.
 
-    10.- Make a note of the public addresses, or scan the public address QR code in your Okcash app and start depositing funds.
+    10.- Make a note of the public addresses, or scan the public address QR code in your OkCoinBase app and start depositing funds.
 
-* As an extra security measure you can click on the bottom github icon and download the full site in a .zip file to generate your OK cash wallets locally or offline.
+* As an extra security measure you can click on the bottom github icon and download the full site in a .zip file to generate your OK CoinBase wallets locally or offline.
 
   ### Backers
 
