@@ -38,12 +38,12 @@ Used with care, a CoinBase wallet can protect you from these possibilities.
 
 | Item                                       | Status   | Notes                            | Updated    |
 | ------------------------------------------ | -------- | -------------------------------- | ---------- |
-| Wallet generation                          | Complete | Private key generated and stored | 2023-11-21 |
-| Mnemonic backup seed process               | 90%      | Wrapping up confirmation process | 2023-11-21 |
-| Speech synthesis process                   | Complete | Combined with localization       | 2023-11-25 |
-| Language localization process              | Complete | Combined with speech synthesis   | 2023-11-25 |
-| Config: Language                           | 10%      |                                  | 2023-11-26 |
-| Config: Voice speed                        | 10%      |                                  | 2023-11-26 |
+| Wallet generation                          | Complete | Private key generated and stored | 2023-09-15 |
+| Mnemonic backup seed process               | 90%      | Wrapping up confirmation process | 2023-09-15 |
+| Speech synthesis process                   | Complete | Combined with localization       | 2023-09-15 |
+| Language localization process              | Complete | Combined with speech synthesis   | 2023-09-15 |
+| Config: Language                           | 10%      |                                  | 2023-09-15 |
+| Config: Voice speed                        | 10%      |                                  | 2023-09-15 |
 | Config: Refreshable braille display model  | Pending  |                                  |            |
 | Fee estimation                             | Pending  |                                  |            |
 | Data movement process                      | Pending  |                                  |            |
